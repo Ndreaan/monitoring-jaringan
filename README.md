@@ -1,4 +1,7 @@
 # monitoring-jaringan
+#menguji stabilitas jaringan pada semua domain
+sudo python3 /usr/local/bin/ping_quality_search.py (perintah program)
+
 
 #!/usr/bin/env python3
 import subprocess
